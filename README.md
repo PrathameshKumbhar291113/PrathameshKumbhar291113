@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrathameshKumbhar291113.
+- 👋 Hi, I’m @PrathameshKumbhar.
 - 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning Kotlin For Android Dev.
 - 💞️ I’m looking to collaborate on any project where I can get my hands on the real industry project.
