@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathameshKumbhar.
 - 👀 I’m interested in Android Development.
-- 🌱 I have completed Java, Kotlin and Android Dev in Java.
+- 🌱 I have completed Java, Kotlin and Android.
 - 💞️ I’m curremty working as an Intern at Invizio Solutions Private LLP.
 - 📫 How to reach me prathameshkumbhar291113@gmail.com
 
