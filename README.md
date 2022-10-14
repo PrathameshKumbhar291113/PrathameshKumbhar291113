@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PrathameshKumbhar.
 - 👀 I’m interested in Android Development.
 - 🌱 I have completed Java, Kotlin and Android.
-- 📫 I have completed the 6 months internship as an Android Developer Intern in Invizio Solutions LLP.
+- 📫 I have completed the 6 months internship as an Android Developer Intern @InvizioSolutionLLP.
+- 👀 Working as Trainee Android Developer at @ByasaTechSolutionspvtltd.
 - 🌱 How to reach me prathameshkumbhar291113@gmail.com
 
 <!---
