@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/pratham38656937" target="blank"><img src="https://img.shields.io/twitter/follow/pratham38656937?logo=twitter&style=for-the-badge" alt="pratham38656937" /></a> </p>
 
-- 🔭 I’m currently working on [B Fit](https://play.google.com/store/apps/details?id=com.prathameshkumbhar.bfit&hl=en_US&gl=US&pli=1)
+- 🧑🏻‍💻 I successfully deployed my application on playstore named as [B Fit](https://play.google.com/store/apps/details?id=com.prathameshkumbhar.bfit&hl=en_US&gl=US&pli=1)
+
+- 🔭 I’m currently working on [SiteGram Social Media Platform]
 
 - 🌱 I’m currently learning **Android Development, Jetpack Compose, Flutter**
 
