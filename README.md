@@ -11,7 +11,7 @@
 
 - 🧑🏻‍💻 I successfully deployed my application on playstore named as [B Fit](https://play.google.com/store/apps/details?id=com.prathameshkumbhar.bfit&hl=en_US&gl=US&pli=1)
 
-- 🔭 I’m currently working on SiteGram Social Media Platform.
+- 🔭 I’m currently working on Site Gram Social Media Platform.
 
 - 🌱 I’m currently learning **Android Development, Jetpack Compose, Flutter**
 
