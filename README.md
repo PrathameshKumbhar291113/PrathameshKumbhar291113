@@ -30,6 +30,6 @@
 
 <p><img align="center" width="1000" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkumbhar291113&show_icons=true&locale=fr&layout=compact" alt="prathameshkumbhar291113" /></p>
 
-<p align="left"> <a href="https://twitter.com/pratham38656937" target="blank"><img src="https://img.shields.io/twitter/follow/pratham38656937?logo=twitter&style=for-the-badge" alt="pratham38656937" /></a> </p>
+<p align="center"> <a href="https://twitter.com/pratham38656937" target="blank"><img src="https://img.shields.io/twitter/follow/pratham38656937?logo=twitter&style=for-the-badge" alt="pratham38656937" /></a> </p>
 
 <p><img align="center" width="1000" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkumbhar291113&" alt="prathameshkumbhar291113" /></p>
