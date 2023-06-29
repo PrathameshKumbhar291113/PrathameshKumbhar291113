@@ -3,8 +3,6 @@
 <h3 align="center">Quick learner and Certified Android Developer adept at writing high quality code application development and user-friendly user interfaces for clients. Efficient with Agile development methodology for module testing and proficient in debugging and fixing errors.</h3>
 <img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshkumbhar291113&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshkumbhar291113" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshkumbhar291113" alt="prathameshkumbhar291113" /></a> </p>
 
 - 🧑🏻‍💻 I successfully deployed my application on playstore named as [B Fit](https://play.google.com/store/apps/details?id=com.prathameshkumbhar.bfit&hl=en_US&gl=US&pli=1).
@@ -31,5 +29,7 @@
 <p><img align="center" width="1000" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkumbhar291113&show_icons=true&locale=fr&layout=compact" alt="prathameshkumbhar291113" /></p>
 
 <p align="center"> <a href="https://twitter.com/pratham38656937" target="blank"><img src="https://img.shields.io/twitter/follow/pratham38656937?logo=twitter&style=for-the-badge" alt="pratham38656937" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prathameshkumbhar291113&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshkumbhar291113" /> </p>
 
 <p><img align="center" width="1000" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkumbhar291113&" alt="prathameshkumbhar291113" /></p>
