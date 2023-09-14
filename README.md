@@ -30,8 +30,22 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prathameshkumbhar291113&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshkumbhar291113" /> </p>
 
-<p><img align="center" width="1000" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkumbhar291113&show_icons=false&locale=en&layout=compact" alt="prathameshkumbhar291113" /></p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" width="1000" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkumbhar291113&layout=compact&langs_count=6&card_width=320&theme=blueberry" />
+</a> 
 
-<p>&nbsp;<img align="center" width="1000" height="200" src="https://github-readme-stats.vercel.app/api?username=prathameshkumbhar291113&show_icons=true&locale=en" alt="prathameshkumbhar291113" /></p>
+<br />
+<h4 align="center"></h4>
+<br />
 
-<p><img align="center" width="1000" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkumbhar291113&" alt="prathameshkumbhar291113" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="1000" height="200" src="https://github-readme-stats.vercel.app/api?username=prathameshkumbhar291113&theme=blueberry" />
+</a>
+
+<br />
+<h4 align="center"></h4>
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="1000" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkumbhar291113&alt=prathameshkumbhar291113&theme=blueberry" />
+</a>
