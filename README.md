@@ -33,15 +33,11 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width="1000" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkumbhar291113&layout=compact&langs_count=6&card_width=320&theme=blueberry" />
 </a> 
-
 <h6 align="center"></h6>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="1000" height="200" src="https://github-readme-stats.vercel.app/api?username=prathameshkumbhar291113&theme=blueberry" />
 </a>
-
 <h6 align="center"></h6>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="1000" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkumbhar291113&alt=prathameshkumbhar291113&theme=blueberry" />
 </a>
