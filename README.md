@@ -34,17 +34,13 @@
   <img align="center" width="1000" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkumbhar291113&layout=compact&langs_count=6&card_width=320&theme=blueberry" />
 </a> 
 
-<br />
 <h4 align="center"></h4>
-<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="1000" height="200" src="https://github-readme-stats.vercel.app/api?username=prathameshkumbhar291113&theme=blueberry" />
 </a>
 
-<br />
 <h4 align="center"></h4>
-<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="1000" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshkumbhar291113&alt=prathameshkumbhar291113&theme=blueberry" />
