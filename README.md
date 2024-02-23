@@ -9,7 +9,7 @@
 
 <!--- 🔭 I’m currently working on **Spare8 Micro Investment Application**. -->
 
-- 🌱 I’m currently learning **Android Development, Jetpack Compose, Flutter**.
+- 🌱 I’m currently learning **Android Development, Jetpack Compose, Flutter, KTOR, Postgre SQL**.
 
 - 💬 Ask me about **Android Development**.
 
