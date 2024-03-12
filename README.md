@@ -3,7 +3,7 @@
 <h3 align="center">Quick learner and Self Taught Android Developer adept at writing high quality code application development and user-friendly user interfaces for clients. Efficient with Agile development methodology for module testing and proficient in debugging and fixing errors.</h3>
 <img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshkumbhar291113" alt="prathameshkumbhar291113" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshkumbhar291113&theme=onedark" alt="prathameshkumbhar291113" /></a> </p>
 
 - 🧑🏻‍💻 I successfully deployed my application on playstore named as [B Fit](https://play.google.com/store/apps/details?id=com.prathameshkumbhar.bfit&hl=en_US&gl=US&pli=1).
 
