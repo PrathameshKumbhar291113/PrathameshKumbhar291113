@@ -1,6 +1,6 @@
 ![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&f=1&nofb=1&ipt=9b09eb936587bb0a17b8bf9b0fb2c407b6ef9980e99a4d11929273beb2c488fa&ipo=images)
 <h1 align="center">Hi 👋, I'm Prathamesh Kumbhar</h1>
-<h3 align="center">Quick learner and Self Taught Android Developer adept at writing high quality code application development and user-friendly user interfaces for clients. Efficient with Agile development methodology for module testing and proficient in debugging and fixing errors.</h3>
+<h3 align="center">Quick learner and Self-taught Android Developer with over 2 years of experience in Java and Kotlin. Proficient in developing user-friendly fullstack mobile applications, writing high-quality code, and skilled in Agile development, debugging and bug-fixing.</h3>
 <img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshkumbhar291113&theme=onedark" alt="prathameshkumbhar291113" /></a> </p>
