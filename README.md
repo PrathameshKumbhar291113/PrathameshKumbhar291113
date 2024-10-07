@@ -40,9 +40,9 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  </p>
 
-<p align="center"> <a href="https://twitter.com/Pratham291113" target="blank"><img src="https://img.shields.io/twitter/follow/Pratham291113?logo=twitter&style=for-the-badge" alt="Pratham291113" /></a> </p>
+<p align="center"> <a href="https://twitter.com/Pratham291113" target="blank"><img src="https://img.shields.io/twitter/follow/Pratham291113?logo=twitter&style=for-the-badge" alt="Pratham291113" height="40"/></a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prathameshkumbhar291113&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshkumbhar291113" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prathameshkumbhar291113&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshkumbhar291113" height="30"/> </p>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width="1000" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshkumbhar291113&layout=compact&langs_count=6&card_width=320&theme=blueberry" />
